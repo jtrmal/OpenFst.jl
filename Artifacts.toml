@@ -1,5 +1,5 @@
 [openfst]
-git-tree-sha1 = "04c4ab0ea3b04fc0f7da47ea039fde01954383b9"
+git-tree-sha1 = "14c4ab0ea3b04fc0f7da47ea039fde01954383b8"
 
     [[openfst.download]]
     url = "https://www.openfst.org/twiki/pub/FST/FstDownload/openfst-1.8.2.tar.gz"
